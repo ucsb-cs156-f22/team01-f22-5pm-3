@@ -7,11 +7,11 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 ```
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------| 
-| Harvard Wang  |   HarvardWang        | `LocationQueryService`      | `LocationController`      |   
-| Josiah Ross   |   josiahnross        | `PublicHolidayQueryService` | `PublicHolidayController` |   
-| Anmol Kapoor  |   Gopu2001        | `RedditQueryService`        | `RedditController`        |   
+| Harvard Wang  | HarvardWang  | `LocationQueryService`      | `LocationController`      |   
+| Josiah Ross   | josiahnross  | `PublicHolidayQueryService` | `PublicHolidayController` |   
+| Anmol Kapoor  | Gopu2001     | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
-|           |           | `UniversityQueryService`    | `UniversityController`    |
+| Josiah Ross  | josiahnross | `UniversityQueryService`    | `UniversityController`    |
 |           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
