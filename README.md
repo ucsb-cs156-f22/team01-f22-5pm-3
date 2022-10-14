@@ -13,7 +13,7 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 | Manu Kondapaneni | konman2           | `PublicHolidayQueryService` | `PublicHolidayController` |
 | Nick Pellegrin | nick-pellegrin | `TidesQueryService`         | `TidesController`         |
 | Josiah Ross  | josiahnross | `UniversityQueryService`    | `UniversityController`    |
-|           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
+| Colter Sirlin | csirlin | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
 
