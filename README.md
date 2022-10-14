@@ -8,7 +8,7 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------| 
 | Harvard Wang  |   HarvardWang        | `LocationQueryService`      | `LocationController`      |   
-|   |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
+| Manu Kondapaneni | konman2           | `PublicHolidayQueryService` | `PublicHolidayController` |   
 |           |           | `RedditQueryService`        | `RedditController`        |   
 |Nick Pellegrin | nick-pellegrin | `TidesQueryService`         | `TidesController`         |   
 | Josiah Ross  | josiahnross | `UniversityQueryService`    | `UniversityController`    |
