@@ -12,7 +12,7 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 |           |           | `RedditQueryService`        | `RedditController`        |   
 |Nick Pellegrin | nick-pellegrin | `TidesQueryService`         | `TidesController`         |   
 | Josiah Ross  | josiahnross | `UniversityQueryService`    | `UniversityController`    |
-|           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
+| Colter Sirlin | csirlin | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
 
