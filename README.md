@@ -9,7 +9,7 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 |-----------|-----------|-----------------------------|---------------------------| 
 | Harvard Wang  |   HarvardWang        | `LocationQueryService`      | `LocationController`      |   
 | Josiah Ross   |   josiahnross        | `PublicHolidayQueryService` | `PublicHolidayController` |   
-|           |           | `RedditQueryService`        | `RedditController`        |   
+| Anmol Kapoor  |   Gopu2001        | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
 |           |           | `UniversityQueryService`    | `UniversityController`    |
 |           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
