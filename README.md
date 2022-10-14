@@ -1,4 +1,4 @@
-# STARTER-team01
+# f22-5pm-3-team01
 
 Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 
@@ -7,7 +7,7 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 ```
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------| 
-|           |           | `LocationQueryService`      | `LocationController`      |   
+| Harvard Wang  |   HarvardWang        | `LocationQueryService`      | `LocationController`      |   
 |           |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
 |           |           | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
