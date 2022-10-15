@@ -13,9 +13,8 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 
-
-@Service
 @Slf4j
+@Service
 public class RedditQueryService {
 
     private final RestTemplate restTemplate;
@@ -32,9 +31,13 @@ public class RedditQueryService {
         headers.setAccept(List.of(MediaType.APPLICATION_JSON));
         headers.setContentType(MediaType.APPLICATION_JSON);
         headers.set("User-Agent","spring-boot:cs156-team01:f22 (by /u/Acceptable_Market298)");
-        String url = "https://www.reddit.com/r/" + subreddit + ".json";
+
         HttpEntity<String> entity = new HttpEntity<>(headers);
-        ResponseEntity<String> response = restTemplate.exchange(url, HttpMethod.GET, entity, String.class);
+
+        Map<String, String> urivariables = Map.of("subreddit", subreddit);
+
+        ResponseEntity<String> response = restTemplate.exchange(ENDPOINT, HttpMethod.GET, entity, String.class,
+                urivariables);
         return response.getBody();
     }
 }
