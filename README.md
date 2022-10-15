@@ -2,24 +2,19 @@
 
 Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 
-* TODO: Update the following table, then delete this line that says "TODO".
-
-```
-|   Name    | GitHub Id |  Service                    | Controller                |
-|-----------|-----------|-----------------------------|---------------------------| 
-| Harvard Wang  | HarvardWang  | `LocationQueryService`      | `LocationController`      |   
-| Josiah Ross   | josiahnross  | `PublicHolidayQueryService` | `PublicHolidayController` |   
-| Anmol Kapoor  | Gopu2001     | `RedditQueryService`        | `RedditController`        |   
-| Manu Kondapaneni | konman2           | `PublicHolidayQueryService` | `PublicHolidayController` |
-| Nick Pellegrin | nick-pellegrin | `TidesQueryService`         | `TidesController`         |
-| Josiah Ross  | josiahnross | `UniversityQueryService`    | `UniversityController`    |
-| Colter Sirlin | csirlin | `ZipCodeQueryService`       | `ZipCodeController`       |
-```
-
+| Name | GitHub Id | Service | Controller |
+|---|---|---|---| 
+| Harvard Wang | HarvardWang | `LocationQueryService` | `LocationController` |
+| Josiah Ross | josiahnross | `PublicHolidayQueryService` | `PublicHolidayController` |
+| Anmol Kapoor | Gopu2001 | `RedditQueryService` | `RedditController` |
+| Manu Kondapaneni | konman2 | `PublicHolidayQueryService` | `PublicHolidayController` |
+| Nick Pellegrin | nick-pellegrin | `TidesQueryService` | `TidesController` |
+| Josiah Ross | josiahnross | `UniversityQueryService` | `UniversityController` |
+| Colter Sirlin | csirlin | `ZipCodeQueryService` | `ZipCodeController` |
 
 Repo: https://github.com/ucsb-cs156-f22/team01-f22-5pm-3
 
-On Heroku: https://cs156-f22-5pm-3-team01.herokuapp.com
+On Heroku: https://f22-5pm-3-team01.herokuapp.com
 
 ## About this repo
 
