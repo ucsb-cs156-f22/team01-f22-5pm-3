@@ -24,7 +24,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 
 @WebMvcTest(value = RedditController.class)
-public class RedditControllerTests {
+public class RedditControllerTest {
     @Autowired
     private MockMvc mockMvc;
     @MockBean
