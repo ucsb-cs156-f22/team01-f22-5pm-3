@@ -46,5 +46,4 @@ public class CountryCodeQueryService {
                 uriVariables);
         return re.getBody();
     }
-
 }
