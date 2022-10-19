@@ -27,7 +27,7 @@ public class TideQueryServiceTests {
         String beginDate = "6/17/2022";
         String endDate = "2/23/2022";
         String station = "5";
-        String expectedURL = CountryCodeQueryService.ENDPOINT.replace("{beginDate}", beginDate)
+        String expectedURL = TidesQueryService.ENDPOINT.replace("{beginDate}", beginDate)
                                                              .replace("{endDate}", endDate)
                                                              .replace("{station}", station);
 
