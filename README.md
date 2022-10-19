@@ -5,7 +5,6 @@ Lab instructions: <https://ucsb-cs156.github.io/f22/lab/team01/>
 | Name | GitHub Id | Service | Controller |
 |---|---|---|---| 
 | Harvard Wang | HarvardWang | `LocationQueryService` | `LocationController` |
-| Josiah Ross | josiahnross | `PublicHolidayQueryService` | `PublicHolidayController` |
 | Anmol Kapoor | Gopu2001 | `RedditQueryService` | `RedditController` |
 | Manu Kondapaneni | konman2 | `PublicHolidayQueryService` | `PublicHolidayController` |
 | Nick Pellegrin | nick-pellegrin | `TidesQueryService` | `TidesController` |
