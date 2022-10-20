@@ -21,7 +21,7 @@ import io.swagger.annotations.ApiParam;
 @Api(description="Get tide information between a start and end date")
 @Slf4j
 @RestController
-@RequestMapping("/api/tides/get")
+@RequestMapping("/api/tides")
 public class TidesController {
     ObjectMapper mapper = new ObjectMapper();
 

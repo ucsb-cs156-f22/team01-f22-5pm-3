@@ -23,7 +23,6 @@ import io.swagger.annotations.ApiParam;
 @RestController
 @RequestMapping("/api/earthquakes")
 public class EarthquakesController {
-    
     ObjectMapper mapper = new ObjectMapper();
 
     @Autowired
